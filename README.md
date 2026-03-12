@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cure Homeo Clinic | Dr. Mrinal Kanti Das</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root {
+            --primary-color: #2e6f40; /* Deep Calming Green */
+            --secondary-color: #e8f3ec; /* Soft Mint Background */
+            --accent-color: #25D366; /* WhatsApp Green */
+            --text-main: #333333;
             --text-light: #666666;
             --white: #ffffff;
             --divider: #e0e0e0;
